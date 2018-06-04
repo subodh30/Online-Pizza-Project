@@ -13,14 +13,14 @@ pizzeria to accept the change (website where customers can order their customize
 Core Functionalities of Projects:
 The main 3 functionalities of the project are listed down as follows:
 
-##1.Easy Ordering:
+## 1.Easy Ordering:
 Ordering involves customizing pizzas, selecting products and entering customer information. The
 system will have to provide the user with data about the ingredients and the non-pizza products such as
 name and price. Users will provide an order which consists of pizzas, non-pizza products, and customer
 information like name, address and telephone number. For every custom pizza and non-pizza product
 users can also specify an amount if they wish to order more than one of them.
 
-##2.Order processing:
+## 2.Order processing:
 Order processing is involved in preparing and delivering orders. The system needs to provide the
 kitchen employees with a list of pending orders. Of each order the ordered products and pizzas must be
 shown, together with the amount of each product. The kitchen employees will first view the order and
@@ -31,7 +31,7 @@ employees who will use the system to retrieve the customer details.. The status 
 delivery employee can mark the order as “delivered”, or in case he failed to deliver it he will make it as
 “failed to deliver”.
 
-##3.Administration:
+## 3.Administration:
 Administration includes adding, editing and deleting available ingredients, non-pizza products
 and employees and viewing previous orders. The system will be able to show a list of ingredients
 and a list of products. For each ingredient and non-pizza product a name, price and picture can
